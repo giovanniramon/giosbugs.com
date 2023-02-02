@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a passionate entomologist and ecologist, with a focus on the study of ants and their impact on biodiversity. With a background in biology and a keen eye for detail, I bring a unique perspective to my research and outreach efforts.
+I'm a passionate entomologist and ecologist, with a focus on the study of ants and their impact on biodiversity. With a background in biology and a keen eye for detail, I bring a unique perspective to my research and outreach efforts!
 
 ---
 
