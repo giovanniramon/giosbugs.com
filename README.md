@@ -1,6 +1,6 @@
-# Giovanni Ramon, PhD(c)
+# **Giovanni Ramon, PhD(c)**
 
-#### Insect ecology and biodiversity
+### _Insect ecology and biodiversity_
 
 ![Gios portrait](IMG-20230102-WA0201.jpg)
 ---
