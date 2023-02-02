@@ -1,5 +1,6 @@
 # Giovanni Ramon, PhD(c)
 
+![Gios portrait](https://github.com/giovanniramon/giosbugs.com/IMG-20230102-WA0201.jpg)
 ---
 
 ## About Me
