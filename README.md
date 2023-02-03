@@ -7,7 +7,9 @@
 
 ## About Me
 
-I'm a passionate entomologist and ecologist, with a focus on the study of ants and their impact on biodiversity. With a background in biology and a keen eye for detail, I bring a unique perspective to my research and outreach efforts!
+Insects are the dominant group of terrestrial animals in terms of biodiversity and biomass. Having lived in one of the most biodiverse regions of the world, Ecuador, I am constantly amazed by their diverse forms, shapes, and colours. This diversity is the result of countless interactions with other organisms and the influence of their ecosystems (i.e. climate, altitude, geology). I am particularly interested in the ecological mechanisms that have generated this huge diversity.
+
+As part of my PhD project, I relocated to Australia to join the Ecological Neuroscience Group to study the visual ecology of strobe ants in the genus Opisthopsis. These alien-looking ants have well-developed eyes and a unique way of moving around, alternating rapid bursts of movement with brief pauses, hence their name. The goal of my project is to understand how these ants use their eyes to navigate, as well as the anatomical and physiological adaptations of their eyes.
 
 ---
 
