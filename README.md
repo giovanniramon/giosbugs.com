@@ -11,6 +11,8 @@ Insects are the dominant group of terrestrial animals in terms of biodiversity a
 
 As part of my PhD project, I relocated to Australia to join the Ecological Neuroscience Group to study the visual ecology of strobe ants in the genus Opisthopsis. These alien-looking ants have well-developed eyes and a unique way of moving around, alternating rapid bursts of movement with brief pauses, hence their name. The goal of my project is to understand how these ants use their eyes to navigate, as well as the anatomical and physiological adaptations of their eyes.
 
+![Opisthopsis](PictureOp.jpg)
+
 ---
 
 ## Skills
